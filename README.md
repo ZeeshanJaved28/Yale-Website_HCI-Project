@@ -9,6 +9,6 @@
   interactions with technology. Overall, HCI is an interdisciplinary field that draws on concepts and methods from computer science, psychology, sociology, and other 
   fields to create effective and user-centered systems.</p>
 
-<p align="left"> <img alt="Original-Website" src="https://github.com/ZeeshanJaved28/Yale-Website_HCI-Project/blob/main/Original%20Website.png" width="300px" height="200px"></p>
-<p align="right"> <img alt="Our-Team-Website" src="https://github.com/ZeeshanJaved28/Yale-Website_HCI-Project/blob/main/Our%20Website.png" width="300px" height="200px"></p>
+<img align="left" alt="Original-Website" src="https://github.com/ZeeshanJaved28/Yale-Website_HCI-Project/blob/main/Original%20Website.png" width="400px" height="300px">
+<img align="right" alt="Our-Team-Website" src="https://github.com/ZeeshanJaved28/Yale-Website_HCI-Project/blob/main/Our%20Website.png" width="550px" height="300px">
  
