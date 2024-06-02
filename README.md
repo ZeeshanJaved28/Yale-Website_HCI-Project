@@ -1,6 +1,6 @@
 <h1><img src="https://github.com/ZeeshanJaved28/Yale-Website_HCI-Project/blob/main/Images/Favicon1.png" height="22px" width="22px"/>Yale School of Art</h1>
 <p align="center"><img alt="Yale-Web-Results" src="https://github.com/ZeeshanJaved28/Yale-Website_HCI-Project/blob/main/Web-Results.png"></p>
-<p align="justify">Overall, the Yale School of Art website appears to be unstructured and difficult to navigate. The layout is not clear and not organized, and 
+<p align="justify">The Yale School of Art website appears to be unstructured and difficult to navigate. The layout is not clear and not organized, and 
   it is very difficult to find information on the various programs and resources offered by the school. In this case our team changed this website into a better
   website and our website appears to be structured and easy to navigate as well as the layout is very clear and organized and also our website help us to find 
   information on the various programs and resources offered by the school. So, our team learned this project i.e. Human-computer interaction (HCI) is a crucial 
